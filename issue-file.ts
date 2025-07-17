@@ -1,0 +1,3 @@
+function useSharedResource() {
+  useSharedResource();
+}
